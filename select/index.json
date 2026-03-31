@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "Misumi - 狂う獣 feat.初音ミク",
+  "base_artist": "MISUMI",
+  "createdAt": "2026-03-31T16:24:22.841147Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ダンス・ダンス・ダダ (Misumi Remix)",
+      "artist": "MAISONdes feat. EMA, たなか & Misumi",
+      "has_synced": true,
+      "path": "select/01_ダンス・ダンス・ダダ_(Misumi_Remix)_MAISONdes_feat._EMA,_たなか_&_Misumi.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ダンス・ダンス・ダダ (Misumi Remix)",
+      "artist": "MAISONdes/EMA/たなか/Misumi",
+      "has_synced": true,
+      "path": "select/02_ダンス・ダンス・ダダ_(Misumi_Remix)_MAISONdes_EMA_たなか_Misumi.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ダンス・ダンス・ダダ (Misumi remix)",
+      "artist": "MAISONdes feat. EMA & たなか",
+      "has_synced": true,
+      "path": "select/03_ダンス・ダンス・ダダ_(Misumi_remix)_MAISONdes_feat._EMA_&_たなか.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "不可解 (Misumi Remix)",
+      "artist": "花譜",
+      "has_synced": false,
+      "path": "select/04_不可解_(Misumi_Remix)_花譜.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ダンス・ダンス・ダダ (Misumi Remix)",
+      "artist": "MAISONdes",
+      "has_synced": true,
+      "path": "select/05_ダンス・ダンス・ダダ_(Misumi_Remix)_MAISONdes.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "不可解 (Misumi Remix)",
+      "artist": "Kaf",
+      "has_synced": false,
+      "path": "select/06_不可解_(Misumi_Remix)_Kaf.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Kizuna AI - Awakening (Prod. Misumi)【Official Music Video】",
+      "artist": "Kizuna AI",
+      "has_synced": true,
+      "path": "select/07_Kizuna_AI_-_Awakening_(Prod._Misumi)【Official_Music_Video】_Kizuna_AI.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Flowering (with Misumi)",
+      "artist": "理芽",
+      "has_synced": true,
+      "path": "select/08_Flowering_(with_Misumi)_理芽.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ダンス・ダンス・ダダ (Misumi Remix) [feat. EMA, たなか & Misumi]",
+      "artist": "MAISONdes",
+      "has_synced": true,
+      "path": "select/09_ダンス・ダンス・ダダ_(Misumi_Remix)_[feat._EMA,_たなか_&_Misumi]_MAISONdes.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Dance Dance Dada (Misumi Remix)",
+      "artist": "MAISONdes",
+      "has_synced": true,
+      "path": "select/10_Dance_Dance_Dada_(Misumi_Remix)_MAISONdes.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Dance Dance Dada (Misumi Remix)",
+      "artist": "MAISONdes, EMA, TANAKA, Misumi",
+      "has_synced": true,
+      "path": "select/11_Dance_Dance_Dada_(Misumi_Remix)_MAISONdes,_EMA,_TANAKA,_Misumi.lrc"
+    }
+  ]
+}
